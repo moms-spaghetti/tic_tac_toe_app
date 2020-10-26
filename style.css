@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body{
+    margin: 100px;
+    padding: 0;
+    font-family: 'Fredoka One', Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 100px;
+    width: 200px;
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+}
+
+#canvasBoard{
+    position: absolute;
+    left: 390px;
+    z-index: 0;
+}
+
+#reset-button{
+    position: absolute;
+    top: 600px;
+    left: 160px;
+    padding: 15px;
+    border-style: none;
+    color: #fff;
+    background-color: #000;
+    font-weight: 400;
+}
