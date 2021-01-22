@@ -6,7 +6,7 @@ This is another object oriented game I created using javascript.\
 
 ## Details
 
-I created my version of tictactoe using object oriented programming principles. Turns alternate between players, the game can be reset and if a winning line is highlighted.
+I created my version of tictactoe using object oriented programming principles. Turns alternate between players and winning rows will be highlighted in a random colour.
 <br/><br/>
 
 ## Built With
